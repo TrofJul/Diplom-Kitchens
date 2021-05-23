@@ -72,7 +72,7 @@ def save_response_content(response, destination):
 
 download_file_from_google_drive('1omZW_rWygbLvvQ399PnmD-LdZHOxpSZ_', 'weigths.pth')
 #download_file_from_google_drive('1ipDvv0tPxu63GrmVM0yQ5E7ispL7HEi_', 'label_encoder.pkl')
-download_file_from_google_drive('1ipDvv0tPxu63GrmVM0yQ5E7ispL7HEi_', 'faster_rcnn_inception_resnet_v2_atrous_lowproposals_coco_2018_01_28.tar.gz')
+#download_file_from_google_drive('1ipDvv0tPxu63GrmVM0yQ5E7ispL7HEi_', 'faster_rcnn_inception_resnet_v2_atrous_lowproposals_coco_2018_01_28.tar.gz')
 
 
 ''''''
