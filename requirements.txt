@@ -1,8 +1,12 @@
 ColorDetect==1.4.3
 Cython==0.29.23
 lxml==4.2.6
+lmdb==0.99
+lightgbm==2.2.3
+llvmlite==0.34.0
 ipython==5.5.0
 ipython-genutils==0.2.0
+ideep4py==2.0.0.post3
 matplotlib==3.2.2
 matplotlib-inline==0.1.2
 numpy==1.19.5
