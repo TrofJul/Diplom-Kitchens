@@ -158,12 +158,11 @@ joblib==1.0.1
 jpeg4py==0.1.4
 jsonschema==2.6.0
 jupyter==1.0.0
-jupyter-client==5.3.5
-jupyter-console==5.2.0
-jupyter-core==4.7.1
-jupyterlab-pygments==0.1.2
-jupyterlab-widgets==1.0.0
-kaggle==1.5.12
+jupyter-client
+jupyter-console
+jupyter-core
+jupyterlab-pygments
+jupyterlab-widgets
 kapre==0.1.3.1
 Keras==2.4.3
 keras-nightly==2.5.0.dev2021032900
